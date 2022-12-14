@@ -3,7 +3,9 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.19.
 
 This Project has Sample Table showing Users data with appropriate pagination and search filter Implemented 
-through custom pipes.
+through custom pipes. 
+
+Pipes are custom implemented ones.
 
 ## Development server
 
